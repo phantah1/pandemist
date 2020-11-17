@@ -1,4 +1,4 @@
-### Manual
+## Manual
 
 #### Context
 It's the year 2020, a sudden outbreak of a mysterious disease was reported in Eastern
@@ -65,7 +65,7 @@ Let the world see your leadership in action...
 ```
 
 
-### Map
+## Map
 
 ```
 _________________________________________________________________________
@@ -94,7 +94,7 @@ _________________________________________________________________________
 |_______________________________________________________________________|
 ```
 
-### Specialists
+## Specialists
 
 **North America** (You start here)
 
@@ -214,7 +214,7 @@ research
 Congratuation!! You have saved the world from the pandemic !!!
 ```
 
-### Help
+## Help
 Commands:
 
     0/ help:
