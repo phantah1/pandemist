@@ -13,7 +13,7 @@ Please read the MANUAL.md for more information and instructions regarding the ga
 Download the JAR package from the release page and run it in your terminal 
 (assumed that you have java installed) :
 
-```bash
+```
 java -jar pandemist_text_v1.0.jar
 
 java -jar pandemist_gui_v1.0.jar
