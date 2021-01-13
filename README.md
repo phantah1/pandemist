@@ -11,7 +11,7 @@ Please read the MANUAL.md for more information and instructions regarding the ga
 ## Run
 
 Download the JAR package from the release page and run it in your terminal 
-(assumed that you have java installed) :
+(assuming that you have java installed) :
 
 ```
 java -jar pandemist_text_v1.0.jar
