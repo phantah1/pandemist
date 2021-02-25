@@ -6,7 +6,7 @@ locate the hidden virus, stopping its spread and develop the cure.
 You will need to plan ahead, strategize and think carefully
 before typing every command. Time is limited and you have to act fast. 
 
-MANUAL.md contains more information and instructions regarding the game.
+Please read MANUAL.md for more information and instructions regarding the game.
 
 ## Run
 
