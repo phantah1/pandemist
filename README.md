@@ -1,4 +1,4 @@
-## Pandemist
+# Pandemist
 
 Pandemist is a text-based strategy game inspired by Plauge inc. In this game you
 will recruit specialists scattered across the globe, command them to
